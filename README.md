@@ -60,3 +60,7 @@ Sugar has exhibited extreme fluctuations, beginning with a decline in revenue of
 ### Customer Preferences For Shipping Options
 Standard Class shipping is the preferred shipping mode for customers, as it was chosen by most customers due to its affordability. Same Day shipping was the least selected shipping mode, which means most customers do not select this delivery option if urgency is not crucial.
 ![image](https://github.com/user-attachments/assets/a2154dc2-e86b-41f2-bcba-39c202e1526e)
+
+
+##   Recommendations
+
