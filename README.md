@@ -63,4 +63,23 @@ Standard Class shipping is the preferred shipping mode for customers, as it was 
 
 
 ##   Recommendations
+Based on the insights and findings above, I would recommend the sales team to consider the following:
+* Optimize Revenue in Low-Performing Periods: 
 
+Launch targeted marketing campaigns during Q1, focusing on Valentine's Day promotions to boost February sales. Increase advertising budgets and introduce discounts or loyalty rewards during low-performing periods. Enhance Q4 marketing strategies to capitalize on holiday demand, such as holiday bundles, exclusive products, or free shipping deals. Focus promotions on Sundays, emphasizing leisure shopping and weekend deals to maximize revenue.
+
+* Drive Product-Specific Growth: 
+
+For Chocolate Candy: Maintain consistent marketing strategies to sustain growth, including new flavour launches or premium packaging.
+
+For Special Candy: Focus on understanding and addressing the factors behind slowed growth in 2024, to ensure sustained momentum in revenue from 2023.
+
+For Sugar Candy: Investigate and resolve the root causes of extreme revenue fluctuations, such as supply chain issues or shifting consumer preferences. Consider offering stable pricing and consistent product availability.
+
+* Expand Pacific Region Strategies to Underperforming Areas:
+
+Analyse and replicate the successful strategies used in the Pacific Region to boost performance in weaker regions like the Gulf. Conduct market research to identify Gulf Region-specific barriers and tailor offerings to meet local customer needs.
+
+* Identify strategies to enhance the appeal of the Same Day shipping option:
+
+Promote Standard Class shipping as a default option for its affordability while exploring ways to make Same Day delivery more attractive, such as lower fees or bundled deals.
