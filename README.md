@@ -50,6 +50,13 @@ Sugar has exhibited extreme fluctuations, beginning with a decline in revenue of
 ![image](https://github.com/user-attachments/assets/3c7a8ad5-940a-4c41-92fa-bc538de2d6a7)
 
 ### Regional Contributions To Revenue
-* Cities located in the Pacific Region contributed 33% of total revenue, showcasing strong market penetration and customer loyalty with cities like Los Angeles, San Franciso and Seattle leading in revenue generation.
-* 
-*  The Gulf Region contributed a mere 16%, reflecting either market saturation or untapped opportunities in the region. This disparity deserves further research into regional strategies, customer preferences, and competitive dynamics.
+* Cities located in the Pacific Region contributed 33% of total revenue, indicating strong market penetration and customer loyalty with cities like Los Angeles, San Franciso and Seattle leading in revenue generation.
+* Cities located in the Atlantic region contributed 27% of total revenue with cities like New York City, Philadephia and Newmark leading in revenue generation.
+* Cities located in the Interior Region contributed 23% of total revenue with cities like Chicago, Houston and Springfield leading in revenue generation.
+* The Gulf Region contributed 16%, the lowest contribution to revenue among other regions.
+![image](https://github.com/user-attachments/assets/c3f10107-b8ce-4faa-9335-9da95c1f0810)
+
+
+### Customer Preferences For Shipping Options
+Standard Class shipping is the preferred shipping mode for customers, as it was chosen by most customers due to its affordability. Same Day shipping was the least selected shipping mode, which means most customers do not select this delivery option if urgency is not crucial.
+![image](https://github.com/user-attachments/assets/a2154dc2-e86b-41f2-bcba-39c202e1526e)
