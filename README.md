@@ -25,6 +25,7 @@ Orders date: This dataset is a dimension table linked to the Order date column i
 
 ## Executive Summary
 Analysis of Davella sales records of 10,194 records across 2021 to 2024 shows a yearly increase in revenue generated beginning from $29k in 2021 to $47k in 2024 corresponding with an increase in total number of candies sold peaking at 12,737 units sold in 2024 compared to 7,813 units in 2021. Further analysis of revenue shows regionally, the Pacific Region contributed 33% of revenue, with majority of customers placing orders on Sundays for Wonka Bar - Milk Chocolate product, while the Gulf Region contributed the least,16% to revenue. Chocolate Candy showed consistent growth in revenue peaking at 27% in 2024, while Special Candy revenue rebounded in 2023 to 103% from a decline of -53% in 2022 but slowed in 2024. Sugar Candy experienced high fluctuation in revenue, with a dramatic spike of 807% in 2023 before declining sharply in 2024 to -37%. Customers preferred Standard Class shipping for its affordability, with Same Day shipping being the least chosen option. 
+![test 1](https://github.com/user-attachments/assets/1bb36daa-95fd-49e8-b052-e2b85125380b)
 
 
 
