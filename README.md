@@ -2,17 +2,17 @@
 
 
 ## Table of Contents
-* [Project Background](#project_background)
-* [Data Structure](#data_structure)
-* [Executive Summary](#executive_summary)
-* [Insights Deep-Dive](#insights_deep-dive)
-  * [Revenue Trends and Customer Purchase Patterns](#revenue_trends_and_customer_purchase_patterns)
-    * [Seasonal Patterns:](#seasonal_patterns)
-    * [Weekly Patterns:](weekly_patterns)
-* [Annual Revenue Performance by Candy Product Category](#annual_revenue_performance_by_candy_product_category)
-  * [Chocolate’s Candy Product Performance](#chocolate's_candy_product_performance)
-  * [Special Candy Product Performance](#special_candy_product_performance)
-  * [Sugar Candy Product Performance](#sugar_candy_product_performance)
+* [Project Background](#project-background)
+* [Data Structure](#data-structure)
+* [Executive Summary](#executive-summary)
+* [Insights Deep-Dive](#insights-deep-dive)
+  * [Revenue Trends and Customer Purchase Patterns](#revenue-trends-and-customer-purchase-patterns)
+    * [Seasonal Patterns:](#seasonal-patterns)
+    * [Weekly Patterns:](weekly-patterns)
+* [Annual Revenue Performance by Candy Product Category](#annual-revenue-performance-by-candy-product-category)
+  * [Chocolate’s Candy Product Performance](#chocolate's-candy-product-performance)
+  * [Special Candy Product Performance](#special-candy-product-performance)
+  * [Sugar Candy Product Performance](#sugar-candy-product-performance)
 
 ### Project Background
 Davella is a manufacturing company established in 2010 which specialises in manufacture and distribution of candy. I have been assigned to work with Head of Sales to provide insights based on analysis of revenue trends focusing on metrics such as: total revenue, total units sold and yearly growth rate. I have also been tasked with conducting analysis on regional performance, product dynamics, and shipping preferences over the four-year period. The insights from these metrics would provide a clear picture of how the candy products are performing in the market as well as identify candy products which require increased attention and marketing strategies.
