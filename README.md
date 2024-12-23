@@ -8,11 +8,19 @@
 * [Insights Deep-Dive](#insights-deep-dive)
   * [Revenue Trends and Customer Purchase Patterns](#revenue-trends-and-customer-purchase-patterns)
     * [Seasonal Patterns:](#seasonal-patterns)
-    * [Weekly Patterns:](weekly-patterns)
-* [Annual Revenue Performance by Candy Product Category](#annual-revenue-performance-by-candy-product-category)
-  * [Chocolate’s Candy Product Performance](#chocolate's-candy-product-performance)
-  * [Special Candy Product Performance](#special-candy-product-performance)
-  * [Sugar Candy Product Performance](#sugar-candy-product-performance)
+    * [Weekly Patterns:](#weekly-patterns)
+ * [Annual Revenue Performance by Candy Product Category](#annual-revenue-performance-by-candy-product-category)
+   * [Chocolate Candy Product Performance](#chocolate-candy-product-performance)
+   * [Special Candy Product Performance](#special-candy-product-performance)
+   * [Sugar Candy Product Performance](#sugar-candy-product-performance)
+ * [Regional Contributions To Revenue](#regional-contributions-to-revenue)
+ * [Customer Preferences For Shipping Options](#customer-preferences-for-shipping-options)
+* [Recommendations](#recommendations)
+   * [Optimize Revenue in Low-Performing Periods:](#optimize-revenue-in-low-performing-periods)
+   * [Drive Product-Specific Growth:](#drive-product-specific-growth)
+   * [Expand Pacific Region Strategies to Underperforming Areas:](#expand-pacific-region-strategies-to-underperforming-areas)
+   * [Identify Strategies to Enhance the Appeal of the Same Day shipping option:](#identify-strategies-to-enhance-the-appeal-of-the-same-day-shipping-option)
+
 
 ### Project Background
 Davella is a manufacturing company established in 2010 which specialises in manufacture and distribution of candy. I have been assigned to work with Head of Sales to provide insights based on analysis of revenue trends focusing on metrics such as: total revenue, total units sold and yearly growth rate. I have also been tasked with conducting analysis on regional performance, product dynamics, and shipping preferences over the four-year period. The insights from these metrics would provide a clear picture of how the candy products are performing in the market as well as identify candy products which require increased attention and marketing strategies.
@@ -56,7 +64,7 @@ Sundays led revenue generation, contributing 18%. This implies strong weekend sh
 
 
 #### Annual Revenue Performance by Candy Product Category
-* ##### Chocolate’s Candy Product Performance
+* ##### Chocolate Candy Product Performance
 Chocolate has emerged as a reliable performer, showing consistent and sustainable growth in revenue over the past three years. Starting with an increase of 5% in 2022 compared to 2021, it climbed steadily to an impressive 27% in 2024. This trend indicates strong consumer demand, driven by effective marketing strategies and favourable product positioning.
 * ##### Special Candy Product Performance
 After a sharp decline in revenue of -52.60% in 2022, it rebounded massively to an impressive 103.49% in 2023. By 2024, the growth stabilized at 39.92%, indicating that while significant progress has been made, sustaining momentum will require continued focus. This recovery is likely a result of strategic pivots or new initiatives, but understanding why growth slowed in 2024 will be critical to ensuring long-term success.
@@ -95,6 +103,6 @@ For Sugar Candy: Investigate and resolve the root causes of extreme revenue fluc
 
 Analyse and replicate the successful strategies used in the Pacific Region to boost performance in weaker regions like the Gulf. Conduct market research to identify Gulf Region-specific barriers and tailor offerings to meet local customer needs.
 
-* Identify strategies to enhance the appeal of the Same Day shipping option:
+* Identify Strategies to Enhance the Appeal of the Same Day shipping option:
 
 Promote Standard Class shipping as a default option for its affordability while exploring ways to make Same Day delivery more attractive, such as lower fees or bundled deals.
