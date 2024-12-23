@@ -17,7 +17,7 @@
  * [Customer Preferences For Shipping Options](#customer-preferences-for-shipping-options)
 * [Recommendations](#recommendations)
    * [Optimize Revenue in Low-Performing Periods](#optimize-revenue-in-low-performing-periods)
-   * [Drive Product-Specific Growth:](#drive-product-specific-growth)
+   * [Drive Product-Specific Growth](#drive-product-specific-growth)
    * [Expand Pacific Region Strategies to Underperforming Areas](#expand-pacific-region-strategies-to-underperforming-areas)
    * [Identify Strategies to Enhance the Appeal of the Same Day shipping option](#identify-strategies-to-enhance-the-appeal-of-the-same-day-shipping-option)
 
@@ -90,7 +90,7 @@ Based on the insights and findings above, I would recommend the sales team to co
 * Optimize Revenue in Low-Performing Periods
 Launch targeted marketing campaigns during Q1, focusing on Valentine's Day promotions to boost February sales. Increase advertising budgets and introduce discounts or loyalty rewards during low-performing periods. Enhance Q4 marketing strategies to capitalize on holiday demand, such as holiday bundles, exclusive products, or free shipping deals. Focus promotions on Sundays, emphasizing leisure shopping and weekend deals to maximize revenue.
 
-* Drive Product-Specific Growth: 
+* Drive Product-Specific Growth
 For Chocolate Candy: Maintain consistent marketing strategies to sustain growth, including new flavour launches or premium packaging.
 For Special Candy: Focus on understanding and addressing the factors behind slowed growth in 2024, to ensure sustained momentum in revenue from 2023.
 For Sugar Candy: Investigate and resolve the root causes of extreme revenue fluctuations, such as supply chain issues or shifting consumer preferences. Consider offering stable pricing and consistent product availability.
