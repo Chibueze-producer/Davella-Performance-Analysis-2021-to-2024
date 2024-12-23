@@ -3,7 +3,16 @@
 
 ## Table of Contents
 * [Project Background](#project_background)
-
+* [Data Structure](#data_structure)
+* [Executive Summary](#executive_summary)
+* [Insights Deep-Dive](#insights_deep-dive)
+  * [Revenue Trends and Customer Purchase Patterns](#revenue_trends_and_customer_purchase_patterns)
+    * [Seasonal Patterns:](#seasonal_patterns)
+    * [Weekly Patterns:](weekly_patterns)
+* [Annual Revenue Performance by Candy Product Category](#annual_revenue_performance_by_candy_product_category)
+  * [Chocolate’s Candy Product Performance](#chocolate's_candy_product_performance)
+  * [Special Candy Product Performance](#special_candy_product_performance)
+  * [Sugar Candy Product Performance](#sugar_candy_product_performance)
 
 ### Project Background
 Davella is a manufacturing company established in 2010 which specialises in manufacture and distribution of candy. I have been assigned to work with Head of Sales to provide insights based on analysis of revenue trends focusing on metrics such as: total revenue, total units sold and yearly growth rate. I have also been tasked with conducting analysis on regional performance, product dynamics, and shipping preferences over the four-year period. The insights from these metrics would provide a clear picture of how the candy products are performing in the market as well as identify candy products which require increased attention and marketing strategies.
@@ -47,11 +56,11 @@ Sundays led revenue generation, contributing 18%. This implies strong weekend sh
 
 
 #### Annual Revenue Performance by Candy Product Category
-##### Chocolate’s Candy Product Performance
+* ##### Chocolate’s Candy Product Performance
 Chocolate has emerged as a reliable performer, showing consistent and sustainable growth in revenue over the past three years. Starting with an increase of 5% in 2022 compared to 2021, it climbed steadily to an impressive 27% in 2024. This trend indicates strong consumer demand, driven by effective marketing strategies and favourable product positioning.
-##### Special Candy Product Performance
+* ##### Special Candy Product Performance
 After a sharp decline in revenue of -52.60% in 2022, it rebounded massively to an impressive 103.49% in 2023. By 2024, the growth stabilized at 39.92%, indicating that while significant progress has been made, sustaining momentum will require continued focus. This recovery is likely a result of strategic pivots or new initiatives, but understanding why growth slowed in 2024 will be critical to ensuring long-term success.
-##### Sugar Candy Product Performance
+* ##### Sugar Candy Product Performance
 Sugar has exhibited extreme fluctuations, beginning with a decline in revenue of -19.61% in 2022 compared to 2021, followed by an astonishing rise to 806.80% in 2023, only to crash to -36.69% in 2024. This category’s fluctuations suggest further examination to determine the cause of the spike in 2023 and the sharp revenue decline in 2024. Investigating the root causes whether supply chain issues, shifting consumer preferences, or operational disruptions will be essential to stabilizing this category and mitigating future risks.
 ![image](https://github.com/user-attachments/assets/3c7a8ad5-940a-4c41-92fa-bc538de2d6a7)
 
