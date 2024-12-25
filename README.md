@@ -70,7 +70,8 @@ Chocolate has emerged as a reliable performer, showing consistent and sustainabl
 After a sharp decline in revenue of -52.60% in 2022, it rebounded massively to an impressive 103.49% in 2023. By 2024, the growth stabilized at 39.92%, indicating that while significant progress has been made, sustaining momentum will require continued focus. This recovery is likely a result of strategic pivots or new initiatives, but understanding why growth slowed in 2024 will be critical to ensuring long-term success.
 * ##### Sugar Candy Product Performance
 Sugar has exhibited extreme fluctuations, beginning with a decline in revenue of -19.61% in 2022 compared to 2021, followed by an astonishing rise to 806.80% in 2023, only to crash to -36.69% in 2024. This category’s fluctuations suggest further examination to determine the cause of the spike in 2023 and the sharp revenue decline in 2024. Investigating the root causes whether supply chain issues, shifting consumer preferences, or operational disruptions will be essential to stabilizing this category and mitigating future risks.
-![image](https://github.com/user-attachments/assets/3c7a8ad5-940a-4c41-92fa-bc538de2d6a7)
+![image](https://github.com/user-attachments/assets/5f0404e2-f16c-4682-a4b9-1fcf3ac99bb2)
+
 
 #### Regional Contributions To Revenue
 * Cities located in the Pacific Region contributed 33% of total revenue, indicating strong market penetration and customer loyalty with cities like Los Angeles, San Franciso and Seattle leading in revenue generation.
